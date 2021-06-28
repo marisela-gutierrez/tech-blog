@@ -160,6 +160,12 @@ main {
   margin-bottom: 5%;
 }
 
+.article {
+  border: solid 1px;
+  margin-bottom: 22px;
+  padding: 4px 12px;
+}
+
 footer {
   border-top: 1px solid #ccc;
   display: flex;
